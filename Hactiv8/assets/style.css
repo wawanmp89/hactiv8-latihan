@@ -1,0 +1,17 @@
+h2{
+    font-size: 32px;
+    color: blueviolet;
+    font-style: italic;
+
+}
+/* id=pagar, #=class */
+.text-id{
+    color: green;
+
+}
+
+#text-class{
+    
+
+}
+
